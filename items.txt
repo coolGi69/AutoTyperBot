@@ -1,0 +1,4 @@
+Here you can put what you want the bot to type
+You can put |Nl0|N at the end of your code to loop back to the start
+Or |Nw1000|N to wait 1 second
+To know how to use it read the readme
