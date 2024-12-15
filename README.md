@@ -1,3 +1,12 @@
+# TEST PROJECT
+This is a small project I made as a child and uploaded to Github for saving the code.
+It is unmaintained and has bad coding habbits that I used to have in the past.
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 # How to use
 
 What you can do with this is to make an automated writer to type stuff for you
